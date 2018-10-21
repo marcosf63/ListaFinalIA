@@ -1,0 +1,13 @@
+alt,bar,sex,fam,cli,preco,chuva,res,tipo,estim,meta
+sim,nao,nao,sim,alguns,$$$,nao,sim,frances,0-10,sim
+sim,nao,nao,sim,cheio,$,nao,nao,tailandes,30-60,nao
+nao,sim,nao,nao,alguns,$,nao,nao,hamburger,0-10,sim
+sim,nao,sim,sim,cheio,$,sim,nao,tailandes,10-30,sim
+sim,nao,sim,nao,cheio,$$$,nao,sim,frances,>60,nao
+nao,sim,nao,sim,alguns,$$,sim,sim,italiano,0-10,sim
+nao,sim,nao,nao,nenhum,$,sim,nao,hamburguer,0-10,nao
+nao,nao,nao,sim,alguns,$$,sim,sim,tailandes,0-10,sim
+nao,sim,sim,nao,cheiio,$,sim,nao,hamburguer,>60,nao
+sim,sim,sim,sim,cheio,$$$,nao,sim,italiano,10-30,nao
+nao,nao,nao,nao,nenhum,$,nao,nao,tailandes,0-10,nao
+sim,sim,sim,sim,cheio,$,nao,nao,hamburguer,30-60,sim
